@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "构造函数注入", "Demo\构造函数注入.csproj", "{1A6CFDB8-CA12-4E10-BBEC-43401B248F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "属性注入", "属性注入\属性注入.csproj", "{D74E5746-D4AA-4CEE-9F02-310B63E5AA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "批量注入", "批量注入\批量注入.csproj", "{6A324DD6-0ACD-4AA8-B9A0-F1096F8D7ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6CFDB8-CA12-4E10-BBEC-43401B248F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6CFDB8-CA12-4E10-BBEC-43401B248F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6CFDB8-CA12-4E10-BBEC-43401B248F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6CFDB8-CA12-4E10-BBEC-43401B248F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74E5746-D4AA-4CEE-9F02-310B63E5AA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74E5746-D4AA-4CEE-9F02-310B63E5AA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74E5746-D4AA-4CEE-9F02-310B63E5AA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74E5746-D4AA-4CEE-9F02-310B63E5AA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A324DD6-0ACD-4AA8-B9A0-F1096F8D7ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A324DD6-0ACD-4AA8-B9A0-F1096F8D7ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A324DD6-0ACD-4AA8-B9A0-F1096F8D7ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A324DD6-0ACD-4AA8-B9A0-F1096F8D7ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF038A6-F1C4-4951-BD02-D4D9BE853130}
+	EndGlobalSection
+EndGlobal
